@@ -1,1 +1,1 @@
-# Smart-fashion-recommender-application
+# Smart-Fashion-Recommender-Application
